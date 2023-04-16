@@ -1,7 +1,7 @@
 ---
-title: "Title"
-author: 
-  - Last Name, First Name[^1]
+title: "Question: Is playing Premier League matches at home more advantageous?"
+author:
+  - Kayan, Mert Efe[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
+[^1]: 20080492, [Github Repo](https://github.com/Mertefekayan/Midterm.git)
 
 # Important Information About Midterm
 
@@ -45,11 +45,17 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 \colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
+This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @price:2022 for academic writing rules. You can find lots of online resources on this topic.
 
 The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
 
 In this section, mention the purpose and importance of your work in a few paragraphs.
+ 
+ 
+ 
+ 
+ 
+ 
  
  Question: Is playing Premier League matches at home more advantageous?
   
@@ -62,7 +68,7 @@ Therefore, I will review and analyze several articles that have addressed the ho
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @ghahfarokhi:2022. This one is a parenthetical citation [@ghahfarokhi:2022]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@ghahfarokhi:2022; @snejdr:2022; @maozad:2022; @price:2022].
 
 
 
